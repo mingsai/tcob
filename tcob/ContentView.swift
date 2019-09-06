@@ -9,8 +9,24 @@
 import SwiftUI
 
 struct ContentView: View {
+    @EnvironmentObject private var viewRouter:ViewRouter
+    
     var body: some View {
-        Text("Hello World")
+        VStack {
+            if self.viewRouter.currentPage == 0 {
+                withAnimation{
+                    
+                    MainView()
+                        .transition(.move(edge: .trailing))
+                }
+            }
+            if self.viewRouter.currentPage == 1 {
+                CustomizerView().transition(.move(edge: .trailing))
+            }
+            if self.viewRouter.currentPage == 2 {
+                ProgressView()
+            }
+        }
     }
 }
 

@@ -16,6 +16,18 @@
 		072FEF7B2321FE2900F0D90D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 072FEF792321FE2900F0D90D /* LaunchScreen.storyboard */; };
 		072FEF862321FE2900F0D90D /* tcobTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072FEF852321FE2900F0D90D /* tcobTests.swift */; };
 		072FEF912321FE2900F0D90D /* tcobUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072FEF902321FE2900F0D90D /* tcobUITests.swift */; };
+		072FEFA32322188C00F0D90D /* Luminari.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 072FEFA22322137900F0D90D /* Luminari.ttf */; };
+		072FEFA42322189000F0D90D /* Krungthep.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 072FEFA12322136600F0D90D /* Krungthep.ttf */; };
+		072FEFA52322189400F0D90D /* Hoefler Text Ornaments.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 072FEFA02322134C00F0D90D /* Hoefler Text Ornaments.ttf */; };
+		072FEFA62322189700F0D90D /* Herculanum.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 072FEF9E2322130000F0D90D /* Herculanum.ttf */; };
+		072FEFAA23221C1C00F0D90D /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072FEFA923221C1C00F0D90D /* MainView.swift */; };
+		072FEFAB23221C2A00F0D90D /* Trattatello.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 072FEFA723221AC400F0D90D /* Trattatello.ttf */; };
+		072FEFAC23221C2F00F0D90D /* SignPainter.ttc in Resources */ = {isa = PBXBuildFile; fileRef = 072FEFA823221BBC00F0D90D /* SignPainter.ttc */; };
+		072FEFAE23221D1300F0D90D /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072FEFAD23221D1300F0D90D /* SettingsView.swift */; };
+		072FEFB023221D2000F0D90D /* RankingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072FEFAF23221D2000F0D90D /* RankingView.swift */; };
+		072FEFB223221D8100F0D90D /* CustomizerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072FEFB123221D8100F0D90D /* CustomizerView.swift */; };
+		072FEFB423221DBC00F0D90D /* ProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072FEFB323221DBC00F0D90D /* ProgressView.swift */; };
+		072FEFB623221E1500F0D90D /* ViewRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072FEFB523221E1500F0D90D /* ViewRouter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +63,18 @@
 		072FEF8C2321FE2900F0D90D /* tcobUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tcobUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		072FEF902321FE2900F0D90D /* tcobUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tcobUITests.swift; sourceTree = "<group>"; };
 		072FEF922321FE2900F0D90D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		072FEF9E2322130000F0D90D /* Herculanum.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Herculanum.ttf; sourceTree = "<group>"; };
+		072FEFA02322134C00F0D90D /* Hoefler Text Ornaments.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Hoefler Text Ornaments.ttf"; sourceTree = "<group>"; };
+		072FEFA12322136600F0D90D /* Krungthep.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Krungthep.ttf; sourceTree = "<group>"; };
+		072FEFA22322137900F0D90D /* Luminari.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Luminari.ttf; sourceTree = "<group>"; };
+		072FEFA723221AC400F0D90D /* Trattatello.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Trattatello.ttf; sourceTree = "<group>"; };
+		072FEFA823221BBC00F0D90D /* SignPainter.ttc */ = {isa = PBXFileReference; lastKnownFileType = file; path = SignPainter.ttc; sourceTree = "<group>"; };
+		072FEFA923221C1C00F0D90D /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		072FEFAD23221D1300F0D90D /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		072FEFAF23221D2000F0D90D /* RankingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RankingView.swift; sourceTree = "<group>"; };
+		072FEFB123221D8100F0D90D /* CustomizerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomizerView.swift; sourceTree = "<group>"; };
+		072FEFB323221DBC00F0D90D /* ProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressView.swift; sourceTree = "<group>"; };
+		072FEFB523221E1500F0D90D /* ViewRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewRouter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,8 +125,15 @@
 		072FEF6A2321FE2800F0D90D /* tcob */ = {
 			isa = PBXGroup;
 			children = (
+				072FEF9F2322133200F0D90D /* Fonts */,
 				072FEF6B2321FE2800F0D90D /* AppDelegate.swift */,
 				072FEF6D2321FE2800F0D90D /* SceneDelegate.swift */,
+				072FEFA923221C1C00F0D90D /* MainView.swift */,
+				072FEFB123221D8100F0D90D /* CustomizerView.swift */,
+				072FEFB323221DBC00F0D90D /* ProgressView.swift */,
+				072FEFB523221E1500F0D90D /* ViewRouter.swift */,
+				072FEFAD23221D1300F0D90D /* SettingsView.swift */,
+				072FEFAF23221D2000F0D90D /* RankingView.swift */,
 				072FEF722321FE2800F0D90D /* ContentView.swift */,
 				072FEF742321FE2900F0D90D /* Assets.xcassets */,
 				072FEF792321FE2900F0D90D /* LaunchScreen.storyboard */,
@@ -137,6 +168,19 @@
 				072FEF922321FE2900F0D90D /* Info.plist */,
 			);
 			path = tcobUITests;
+			sourceTree = "<group>";
+		};
+		072FEF9F2322133200F0D90D /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				072FEFA12322136600F0D90D /* Krungthep.ttf */,
+				072FEFA22322137900F0D90D /* Luminari.ttf */,
+				072FEFA02322134C00F0D90D /* Hoefler Text Ornaments.ttf */,
+				072FEF9E2322130000F0D90D /* Herculanum.ttf */,
+				072FEFA723221AC400F0D90D /* Trattatello.ttf */,
+				072FEFA823221BBC00F0D90D /* SignPainter.ttc */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -243,8 +287,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				072FEFAC23221C2F00F0D90D /* SignPainter.ttc in Resources */,
 				072FEF7B2321FE2900F0D90D /* LaunchScreen.storyboard in Resources */,
+				072FEFA32322188C00F0D90D /* Luminari.ttf in Resources */,
 				072FEF782321FE2900F0D90D /* Preview Assets.xcassets in Resources */,
+				072FEFAB23221C2A00F0D90D /* Trattatello.ttf in Resources */,
+				072FEFA52322189400F0D90D /* Hoefler Text Ornaments.ttf in Resources */,
+				072FEFA62322189700F0D90D /* Herculanum.ttf in Resources */,
+				072FEFA42322189000F0D90D /* Krungthep.ttf in Resources */,
 				072FEF752321FE2900F0D90D /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -270,10 +320,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				072FEFB023221D2000F0D90D /* RankingView.swift in Sources */,
 				072FEF6C2321FE2800F0D90D /* AppDelegate.swift in Sources */,
 				072FEF712321FE2800F0D90D /* tcob.xcdatamodeld in Sources */,
 				072FEF732321FE2800F0D90D /* ContentView.swift in Sources */,
+				072FEFAE23221D1300F0D90D /* SettingsView.swift in Sources */,
+				072FEFB623221E1500F0D90D /* ViewRouter.swift in Sources */,
+				072FEFAA23221C1C00F0D90D /* MainView.swift in Sources */,
 				072FEF6E2321FE2800F0D90D /* SceneDelegate.swift in Sources */,
+				072FEFB223221D8100F0D90D /* CustomizerView.swift in Sources */,
+				072FEFB423221DBC00F0D90D /* ProgressView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
